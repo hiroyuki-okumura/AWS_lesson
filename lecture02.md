@@ -1,4 +1,4 @@
-## メモ
+## バージョン管理システム
 
 - Git-Flow（mainとdevelopを平行）とGithub-Flow
 - Issue
@@ -7,6 +7,14 @@
 
 
 - 課題提出後、ブランチの削除を試す
+- 
+
+
+
+## MardkDown記法
+
+
+
 
 ## Gitコマンド
 
